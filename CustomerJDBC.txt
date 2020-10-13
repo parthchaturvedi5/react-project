@@ -1,1 +1,4 @@
-hello
+public class CustomerJDBC
+{
+	Connection con;
+}
